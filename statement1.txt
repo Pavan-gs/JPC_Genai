@@ -1,0 +1,8 @@
+Date | Transaction | Amount | Category | Notes
+10/01/2025 | Deposit from Client A | +$50,000 | Revenue | New hedge fund inflow
+10/05/2025 | Wire to Vendor B | -$12,500 | Expense | Compliance software
+10/10/2025 | Trade Execution Fee | -$2,300 | Ops | EUR/USD short
+10/15/2025 | Interest Accrual | +$1,200 | Income | Bond portfolio
+10/20/2025 | Refund from Error | +$800 | Adjustment | Overcharge reversal
+10/25/2025 | Tax Withholding | -$4,500 | Compliance | Q3 estimated
+Balance: $1,234,567 | Anomalies: Check for unreconciled wires >$10K

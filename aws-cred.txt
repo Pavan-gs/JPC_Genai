@@ -1,0 +1,9 @@
+Invoke the aws bedrock model and run it locally and build a basic chat application
+installed python 3.12
+python -m venv mydemo
+pip install streamlit, boto3, awscli
+aws configure
+
+AKIA2F5PREXCA7VDISOH
+eMKH9WiqpvVdK2e5aM8KadmUqbFdY6K1bj5PKbxt
+anthropic.claude-3-5-haiku-20241022-v1:0
